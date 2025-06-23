@@ -1,0 +1,3 @@
+# Remorsos, sentimentos vivazes...
+
+Remorsos, sentimentos vivazes, incongruências emocionais... Não serão mais que percepções de ocorrências no paralelo.

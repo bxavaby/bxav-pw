@@ -1,0 +1,3 @@
+# Nada amedronta mais o homem...
+
+Nada amedronta mais o homem do que a privação à bravura em momentos suicídas.

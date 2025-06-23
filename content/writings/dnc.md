@@ -1,0 +1,3 @@
+# Desfaço-me no correr das horas...
+
+Desfaço-me no correr das horas pelo vazio terreno do caminho; nada no real me exorta, salvo esta primária deflagração metafísica!

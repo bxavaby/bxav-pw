@@ -1,0 +1,3 @@
+# Tudo é...
+
+Tudo é mais imperfeito quanto mais perfeito se idealiza.

@@ -1,0 +1,3 @@
+# Art as...
+
+Art as a silent manifest of idiossincrasy and subjectivity; a matterless sculpture of our most refined ideals, shared with the self and the soul, the only agents capable of understanding one’s objectivity.

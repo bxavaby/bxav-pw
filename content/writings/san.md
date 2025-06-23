@@ -1,0 +1,3 @@
+# Sei-me ao nível...
+
+Sei-me ao nível que o ser pré-histórico sabia o efeito da combustão; vou descobrindo o meu desconhecimento de mim, como se visse somente uma labareda fusca e o meu pensamento lhe atribuísse cor e forma, que em nada se identificam com algo maior e mais amplo. Conscientemente sou anticientífico, já que não me desvendo mediante inquisições e permutas restritas a um domínio sério; curiosamente aparento uma ciência de resguardo, denominando a labareda de labareda, ao invés de uma “nuance quente e oblonga de substância viva”, porém denominar não iguala o saber, que é ter conhecimento íntimo de algo, iguala sim uma reação advinda da consciencialização de métodos.

@@ -1,0 +1,3 @@
+# Há uma rematada lisonja...
+
+Há uma rematada lisonja nas vozes que me repito: o eterno balanço da morte em arabesque.

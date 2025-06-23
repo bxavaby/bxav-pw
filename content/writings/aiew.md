@@ -1,0 +1,3 @@
+# May all...
+
+May all I have ever witnessed be a void ship towards the infinite.

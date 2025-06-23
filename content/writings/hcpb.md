@@ -1,0 +1,3 @@
+# Há uma certa paz na bruma...
+
+Há uma certa paz na bruma: não se sabe se o desvendar trará um paraíso.

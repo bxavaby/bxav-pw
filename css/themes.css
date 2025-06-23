@@ -1,0 +1,98 @@
+/* Digital Fractal theme */
+.theme-digital-fractal {
+    --background: #090a12;
+    --text: #ffffff;
+    --accent: #f0bbc2;
+    --secondary: #87717d;
+    --tertiary: #22203c;
+}
+
+/* 1bit-styx theme (alternative) */
+.theme-1bit-styx {
+    --background: #090a12;
+    --text: #fff3f3;
+    --accent: #a07cff;
+    --secondary: #6d4299;
+    --tertiary: #090a12;
+}
+
+/* slimy 05 theme (alternative2) */
+.theme-slimy-05 {
+    --background: #0a1a2f;
+    --text: #40985e;
+    --accent: #d1cb95;
+    --secondary: #1a644e;
+    --tertiary: #04373b;
+}
+
+/* sadness theme (alternative3) */
+.theme-sadness {
+    --background: #131626;
+    --text: #fbfef9;
+    --accent: #ddc8f9;
+    --secondary: #7d95de;
+    --tertiary: #2e364d;
+}
+
+/* 2bit demichrome theme (alternative4) */
+.theme-2bdc {
+    --background: #211e20;
+    --text: #e9efec;
+    --accent: #a0a08b;
+    --secondary: #555568;
+    --tertiary: #211e20;
+}
+
+/* SoftDecay GB theme (alternative5) */
+.theme-sdgb {
+    --background: #2e2e2e;
+    --text: #f8f5ff;
+    --accent: #e7c7df;
+    --secondary: #7d8282;
+    --tertiary: #2e2e2e;
+}
+
+/* anorange (alternative6) */
+.theme-anorange {
+    --background: #000000;
+    --text: #ffb77d;
+    --accent: #815b3f;
+    --secondary: #ff5900;
+    --tertiary: #000000;
+}
+
+/* bvanil (alternative7) */
+.theme-bvanil {
+    --background: #3f1d2c;
+    --text: #f5f5f5;
+    --accent: #e7d5e2;
+    --secondary: #8c72a4;
+    --tertiary: #3f1d2c;
+}
+
+/* aroacidic (alternative8) */
+.theme-aroacidic {
+    --background: #360b40;
+    --text: #dae5e8;
+    --accent: #a08dac;
+    --secondary: #6fa238;
+    --tertiary: #360b40;
+}
+
+/* evidence in darkness (alternative9; main actually, perfection) */
+.theme-eid {
+    --background: #000000;
+    --text: #ffffff;
+    --accent: #c8b59e;
+    --secondary: #76428a;
+    --tertiary: #000000;
+}
+
+/* robots are cool (alternative10; second actually, really cool) */
+.theme-rac {
+    --background: #251d29;
+    --text: #ffffff;
+    --accent: #fbcdcd;
+    --secondary: #778299;
+    --tertiary: #251d29;
+}

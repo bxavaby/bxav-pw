@@ -1,0 +1,3 @@
+# Uma boa música...
+
+Uma boa música tem a sua escrita penetrada pela melodia, não o contrário.

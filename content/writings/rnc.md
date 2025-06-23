@@ -1,0 +1,3 @@
+# Recostado no cadeirão...
+
+Recostado no cadeirão, latejando torpemente escontra o invernal sol, vislumbro o verde negrejante da floresta provincial e enlevo-me. Jamais haverá aldeia sul-europeia incapaz de me seduzir. O astro-pai sente-se mais vital e jocosamente por estes lados íngremes; neles me revejo tanto, escarpado e insólito. Vejo o poente de nuances calmas e noto formarem-se, em primeiro plano, silhuetas entretecidas da floresta escura. A minha alma deixa-me e parece incorporar o cenário na sua completude; eis, ora pois, uma nova, inédita fenomenologia, um fotograma mais ilustre que a metragem.

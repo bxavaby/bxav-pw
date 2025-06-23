@@ -1,0 +1,3 @@
+# Parasito a sociedade...
+
+Parasito a sociedade como o rubi parasita a zoisita ou a fuchsita, incomumente justapostos; não sou senão uma mancha única a quedar num tecido já maculado… E tamanha alegria me traz a compreensão, paulatinamente conseguida, do meu eterno contributo.

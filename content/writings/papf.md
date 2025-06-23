@@ -1,0 +1,5 @@
+# Poesia alta é poesia fingida...
+
+Poesia alta é poesia fingida, i. e., reminada ad nauseam; sentida previamente à ação do cálamo, refletida, porque se busca uma pseudo-verdade que é comumente chamada de opinião e, finalmente, exposta com repulsa, como quem sente asco relativamente à própria excreção. Por isso é a minha escrita, especialmente a versejada, uma emética volição.
+Um traço aborrecidamente vil que denoto, aquando opero vagaroso, à Baudelaire, é a necessidadde ilusória de uma guarida certa — covil de feras dormentes —; indubitavelmente, força é que odeie o pérfido amanhecer, mesmo nãosendo este, na verdade, de tal jaez. Poucos pensam ser mais prudente passar uma noite em claro e ao relento, se houver a possibilidade de abrigo, e esta é a ocasião que promulga a real índole do poeta; os demais, salvo por exaustão que se tornou física, cedem estupidamente a uma debilidade emocional e são mistificados pela própria vista.
+Tudo o que é escorreito, é-o por fingimento, por manoeuvre, em suma, por não o ser, não após, naturalmente e o ser, não antes, racionalizadamente.

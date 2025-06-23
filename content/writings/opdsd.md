@@ -1,0 +1,4 @@
+# O Páramo dos Sonhos Desfalecidos
+
+Sei que erro, vagabundo e fugídeo, por um qualquer terreno desconhecido, alhures na mente, e percorro como um cavalo fugaz a pradaria de nenhures, além-mundo, conquanto inconcebivelmente tangível. Cerro a vista e sinto nas pálpebras o ardente resplandecer do sol, ao passo que a brisa vespertina me vai laminando subtilmente a face oca... E logo tudo se liberta de mim. Repentinamente sei não o lembrar e, enquanto exercito a lembrança, já as ruínas do sonho se evaporaram para uma outra realidade, aparte do espaço e do tempo onde o meu torso resta.
+Lá fiquei eu chorando o abraço que se afastava cansado de me esperar. Tanto se afastou, que aos meus olhos não passava de um mórbido horizonte a penumbrar a região mais latente da Terra... O Páramo dos Sonhos Desfalecidos.

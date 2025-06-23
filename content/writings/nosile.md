@@ -1,0 +1,3 @@
+# Há, no silêncio...
+
+Há, no silêncio, um desconforto anímico: dois corpos extáticos abraçando-se dilúvios.

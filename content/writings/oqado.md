@@ -1,0 +1,3 @@
+# O quanto que eu adoro...
+
+O quanto que eu adoro os momentos em que sinto algo inédito, inenarrável, porquanto os seguintes despertarão em mim um axioma válido e máximo.

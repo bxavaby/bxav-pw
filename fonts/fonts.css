@@ -1,0 +1,35 @@
+/* fonts/fonts.css */
+@font-face {
+    font-family: "DepartureMono";
+    src: url("DepartureMonoNFM-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FiraMono";
+    src: url("FiraMonoNFM-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FiraMono";
+    src: url("FiraMonoNFM-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "FiraMono";
+    src: url("FiraMonoNFM-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ShureTechMonoNerdFontMono-Regular";
+    src: url("ShureTechMonoNFM.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}

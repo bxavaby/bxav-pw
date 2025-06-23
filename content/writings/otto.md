@@ -1,0 +1,3 @@
+# O teu talhe ondula...
+
+O teu talhe ondula como a verdade entre dois polos: a intuição menor, provinda do temperamento e da subjetividade individuais; e a intuição maior, como substância flutuante no sólio estelífero da obscureza inter-ser. Sabe-a física e ambiguamente o corpo, aquela meia-verdade, que jaz, à guisa de penumbra, no nosso entendimento, ainda que não a faça, semelhante à lua, refletir momentaneamente na sua atra face.
