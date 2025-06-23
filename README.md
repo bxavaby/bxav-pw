@@ -1,8 +1,8 @@
 <div align="center">
     <img src="assets/images/bxavx2r-ed.png" alt="FKEL" width="256" />
     <br>
-    <p>「 0x4652414D4520544841542 」</p>
     <br>
+    <p>「 0x4652414D4520544841542 」</p>
     <p>
         <img src="https://img.shields.io/badge/Status-Active-76428a?style=flat-square" alt="Status: Active">
         <img src="https://img.shields.io/badge/Theme-Terminal-c8b59e?style=flat-square" alt="Theme: Terminal">
