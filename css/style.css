@@ -2143,7 +2143,7 @@ a.detail-value:hover {
     }
 
     .terminal-nav {
-        gap: 10px;
+        gap: 5px;
         margin-bottom: 10px;
         padding-bottom: 5px;
         flex-wrap: wrap;
@@ -2152,12 +2152,12 @@ a.detail-value:hover {
 
     .nav-item {
         padding: 3px 6px;
-        font-size: 0.8em;
+        font-size: 0.72em;
     }
 
     .home-container {
         overflow-x: hidden;
-        gap: 15px;
+        gap: 4px;
         padding: 0;
     }
 
@@ -2188,7 +2188,7 @@ a.detail-value:hover {
 
     .profile-section {
         padding: 10px;
-        gap: 15px;
+        gap: 5px;
     }
     .profile-visual-core {
         gap: 8px;
