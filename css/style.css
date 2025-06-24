@@ -2309,7 +2309,7 @@ a.detail-value:hover {
 
     .section.projects-intro {
         padding: 10px;
-        margin-bottom: 8px;
+        margin-bottom: 4px;
     }
 
     .section.projects-intro h2 {
@@ -2340,7 +2340,7 @@ a.detail-value:hover {
     }
 
     .section.project-card {
-        width: 100%;
+        width: 95%;
         box-sizing: border-box;
     }
 
@@ -2446,7 +2446,7 @@ a.detail-value:hover {
     .literary-actions {
         gap: 6px;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: left;
     }
     .btn-read-more,
     .btn-speed-read {
@@ -2454,10 +2454,17 @@ a.detail-value:hover {
         font-size: 0.7em;
     }
 
+    .modal {
+        position: fixed;
+        bottom: 0;
+        height: auto;
+    }
+
     .modal-content {
-        width: 98%;
-        margin: 2% auto;
-        max-height: 96vh;
+        width: 90vw;
+        padding: 15px;
+        max-height: 80vh;
+        box-sizing: border-box
     }
 
     .modal-header {
