@@ -3,16 +3,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function applyTheme() {
     const savedTheme = localStorage.getItem("theme");
-    if (savedTheme === "theme-eid") {
-      document.body.className = "theme-eid";
+    if (savedTheme === "theme-rac") {
+      document.body.className = "theme-rac";
       console.log(`> using saved theme: ${savedTheme}`);
     } else {
-      document.body.className = "theme-rac";
+      document.body.className = "theme-eid";
       if (!savedTheme) {
-        console.log(`> using default theme: theme-rac`);
-      } else if (savedTheme !== "theme-rac") {
+        console.log(`> using default theme: theme-eid`);
+      } else if (savedTheme !== "theme-eid") {
         console.log(
-          `> using theme-rac (fallback from invalid theme '${savedTheme}')`,
+          `> using theme-eid (fallback from invalid theme '${savedTheme}')`,
         );
       } else {
         console.log(`> using saved theme: ${savedTheme}`);
